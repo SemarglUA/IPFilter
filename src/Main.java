@@ -3,6 +3,6 @@
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Yo! My friends. I try tu push my project on Git. Main");
+        System.out.println("Yo! My friends. I try tu push my project on Git. Main dfg");
     }
 }
